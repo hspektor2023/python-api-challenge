@@ -1,1 +1,2 @@
 # python-api-challenge
+# Could not use the geoviews library for the map because of errors in the installation. Had to use folium library instead. Could not complete the two last codes apparently because of that.
